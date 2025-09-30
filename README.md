@@ -1,8 +1,23 @@
-# Synapse - URL Shortener
+<p align="center">
+  <a href="https://synapse-url.netlify.app/" target="_blank">
+    <img src="/raw/logo/logo.png" alt="Synapse URL Shortener" width="120"/>
+  </a>
+</p>
 
-Synapse is a full-stack URL shortener application that allows users to create shortened URLs, track click analytics, and manage their links through a user-friendly dashboard.
+<h1 align="center">
+  <a href="https://synapse-url.netlify.app/" target="_blank">Synapse - URL Shortener</a>
+</h1>
 
-![Synapse URL Shortener](https://github.com/dnyaneshagale/url-shortener/raw/main/screenshot.png)
+<p align="center">
+  Synapse is a full-stack URL shortener application that allows users to create shortened URLs, 
+  track click analytics, and manage their links through a user-friendly dashboard.
+</p>
+
+<p align="center">
+  🔗 <a href="https://synapse-url.netlify.app/" target="_blank">Visit the Live App</a>
+</p>
+
+
 
 ## 🚀 Features
 
@@ -217,3 +232,15 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 Made with ❤️ using Spring Boot and React
+
+# Landing Page : 
+![img_1.png](raw/screenshots/img_1.png)
+
+# Registration Page :
+![img_2.png](raw/screenshots/img_2.png)
+
+# Shorten Url :
+![img_4.png](raw/screenshots/img_4.png)
+
+# Dashboard : 
+![img_3.png](raw/screenshots/img_3.png)
